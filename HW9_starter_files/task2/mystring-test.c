@@ -27,7 +27,6 @@ int main(int argc, char **argv) {
 	mystring_set(s, 24, 'm');
     	mystring_set(s, 500, 's');
 	mystring_set(s, 12, 'b');
-	mystring_set(s, 15, '9');
 	mystring_set(s, 25, '!');
 
 	printf("These should be equal:\n");
